@@ -171,7 +171,7 @@ p {
 .circle {
     padding: 13px 20px;
     border-radius: 50%;
-    background-color: #003f88;
+    background-color: cornflowerblue;
     color: #fff;
     max-height: 50px;
     z-index: 2;
@@ -184,7 +184,7 @@ p {
 .how-it-works.row .col-2::after {
     content: "";
     position: absolute;
-    border-left: 3px solid #003f88;
+    border-left: 3px solid cornflowerblue;
     z-index: 1;
 }
 
@@ -211,7 +211,7 @@ p {
 }
 
 .timeline hr {
-    border-top: 3px solid #003f88;
+    border-top: 3px solid cornflowerblue;
     margin: 0;
     top: 17px;
     position: relative;
@@ -223,7 +223,7 @@ p {
 }
 
 .timeline .corner {
-    border: 3px solid #003f88;
+    border: 3px solid cornflowerblue;
     width: 100%;
     position: relative;
     border-radius: 15px;
@@ -597,7 +597,7 @@ p {
 }
 
 .contact-info {
-    margin-left: 75px;
+    margin-left: 100px;
     color: #fff;
 }
 
